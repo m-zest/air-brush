@@ -5,7 +5,7 @@ Perfect for presentations, meetings, or creative sessions — no mouse, no touch
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Real Hand Tracking** – Uses [MediaPipe Hands](https://developers.google.com/mediapipe) for accurate hand gesture detection.
 - **Pinch-to-Draw** – Pinch your thumb and index finger together to start drawing.
@@ -18,7 +18,7 @@ Perfect for presentations, meetings, or creative sessions — no mouse, no touch
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **React + TypeScript** – Modern, responsive front-end
 - **MediaPipe Hands** – Real-time hand gesture detection
@@ -27,7 +27,7 @@ Perfect for presentations, meetings, or creative sessions — no mouse, no touch
 
 ---
 
-## 📸 How It Works
+##  How It Works
 
 1. The camera captures your video feed.
 2. **MediaPipe Hands** detects 21 key landmarks on your hand.

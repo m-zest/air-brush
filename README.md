@@ -72,7 +72,7 @@ Perfect for presentations, meetings, or creative sessions — no mouse, no touch
 
 ---
 
-![MediaPipe Hands Diagram](https://raw.githubusercontent.com/m-zest/air-brush/main/src/assets/hands.png)
+![MediaPipe Hands Diagram](https://raw.githubusercontent.com/m-zest/air-brush/main/src/hand_landmarks.png)
 
 *Example landmark points from MediaPipe Hands (21 points per hand).*
-```
+![MediaPipe Hands Diagram](https://raw.githubusercontent.com/m-zest/air-brush/main/src/1.png)
